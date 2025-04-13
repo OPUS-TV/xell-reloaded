@@ -12,6 +12,6 @@ static char* asciiart = "\n"
 " ██╔██╗ ██╔══╝  ██║     ██║       \n"
 "██╔╝ ██╗███████╗███████╗███████╗  \n"
 "╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝  \n"
-                                   \n\n";
+"                                  \n\n";
 static char* asciitail =
 	"              OPUS XeLL RELOADED - Xenon Linux Loader\n\n";
